@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kevinmyat.github.io/sitemap.xml
